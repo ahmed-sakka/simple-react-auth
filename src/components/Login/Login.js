@@ -20,7 +20,7 @@ const Login = (props) => {
         enteredEmail.includes('@') && enteredPassword.trim().length > 6
       );
     }, 500);
-    // return a clean up function
+    // return a clean up function that runs before the effect function 
     return () => {
       console.log('CLEANUP');
       clearTimeout(identifier);
