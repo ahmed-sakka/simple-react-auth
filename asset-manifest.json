@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-react-auth/static/css/main.7647fb74.css",
+    "main.js": "/simple-react-auth/static/js/main.ac2a60d5.js",
+    "index.html": "/simple-react-auth/index.html",
+    "main.7647fb74.css.map": "/simple-react-auth/static/css/main.7647fb74.css.map",
+    "main.ac2a60d5.js.map": "/simple-react-auth/static/js/main.ac2a60d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7647fb74.css",
+    "static/js/main.ac2a60d5.js"
+  ]
+}
